@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "edc06656f2a8c0457f9418e7",
+  "owner": "phynwd",
+  "repo": "page-442aecf1040f450265bf0517",
+  "title": "明日香(eva)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "442aecf1040f450265bf0517",
+      "a": "明日香(eva)",
+      "b": "2027官方最新地址导航",
+      "entity": "明日香(eva)",
+      "brand": "明日香(eva)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c6682f66799c341accfd517fb98a53c15b9c544321a2e39c14eec05362e29f57",
+      "content": {
+        "primary_entity": "明日香(eva)",
+        "keyword1": "明日香(eva)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，明日香(eva)围绕不同设备规模与流量需求提供可选套餐，基础版适合单人轻量使用，旗舰版兼顾流媒体与游戏加速，团队版面向多设备协作场景。订阅配置依据各客户端文档完成，选择套餐时建议先核对在线设备数量与月度流量消耗。",
+          "AI_HERO_SUBTITLE": "按设备与流量选套餐",
+          "AI_HERO_INTRO": "明日香(eva)为需要稳定海外加速的用户提供多档订阅方案，从基础版到团队版覆盖不同设备数量与流量区间。结合日常使用场景选择合适套餐，再按客户端文档完成订阅导入即可开始使用。",
+          "AI_VISUAL_TITLE": "选对套餐更省心",
+          "AI_HIGHLIGHT_1": "三档套餐按设备数量区分",
+          "AI_HIGHLIGHT_2": "旗舰版含IPLC游戏优化",
+          "AI_HIGHLIGHT_3": "年付方案节省月度支出",
+          "AI_FEATURES_TITLE": "套餐特点",
+          "AI_FEATURES_INTRO": "从流量、设备数和线路类型三个角度了解各档套餐差异。",
+          "AI_FEATURE_TITLE_1": "流量梯度",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB，旗舰版300GB，团队版1000GB，按用量选择。",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TEXT_2": "基础版3台，旗舰版5台，团队版20台，多人共享建议选高配。",
+          "AI_FEATURE_TITLE_3": "年付优惠",
+          "AI_FEATURE_TEXT_3": "基础版年付150元，旗舰版350元，团队版850元，长期使用更划算。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版15元每月适合轻度使用；旗舰版35元每月增加流媒体解锁与IPLC专线；团队版85元每月提供VIP高带宽节点与定制路由。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLIENTS_INTRO": "根据设备系统挑选对应客户端，Windows、macOS、Android、iOS及路由器平台均有可用方案，按客户端文档导入订阅地址即可。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "三步完成从选择到配置的过程。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据设备数量与月流量需求，在基础版、旗舰版或团队版中确定订阅。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认当前设备系统与套餐支持的客户端类型匹配，避免在线设备超出限制。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照所选客户端文档导入订阅信息，完成节点更新后即可连接使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好套餐再出发",
+          "AI_CLOSING_TEXT": "对比三档套餐后选择适合自己设备规模的方案，按文档配置即可开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "明日香(eva)支持哪些设备？",
+          "AI_FAQ_ANSWER_1": "可运行于常见的桌面与移动系统，具体以所用客户端为准。不同套餐支持同时在线的设备数量不同，基础版 3 台、旗舰版 5 台、团队版 20 台。",
+          "AI_FAQ_QUESTION_2": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_2": "购买后获得订阅信息，在对应客户端的订阅或配置入口粘贴导入，保存后更新节点即可使用。具体步骤可参考各客户端文档。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "功能权益一致，年付方案费用更低。基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，可按使用时长选择。",
+          "AI_FAQ_QUESTION_4": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_4": "每月流量按套餐档位重置。若经常超出，可升级到更高档位，旗舰版每月 300GB、团队版每月 1000GB，按需调整。",
+          "AI_FAQ_QUESTION_5": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_5": "团队版每月 1000GB 流量、支持 20 台设备同时在线，含 VIP 专属高带宽节点与企业定制路由，适合多人或小型团队使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "huanlvkeji.cn",
+    "host": "huanlvkeji.cn"
+  },
+  "file_hashes": {
+    "index.html": "54938b8f533d1bf02b0d21aa26181cf46fb725987f6ff1ac05e270a51896f980",
+    "sitemap.xml": "330011c310b8c91fc191b2e22017c819bd1ff8d058bfb71b85bb4ece46b9dfac",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "940d2945869269f0d786159fc58a6071a533075948655a2a9852091071f9b87a",
+    "robots.txt": "2fd33a03096680043a75f72accde1792ffdc9ef92aa576aab420a54bc1a131dc",
+    "5aaebdc0c7719839b5f7f7b7a4280dcd.txt": "b688f16f40059fd1d70a8ebf3a4de4d045c2586b97f2cc07f0c3954c6e00d59f"
+  },
+  "revision": "1b5279d009af7f1a29dde9f06decc1c042eab917fe349f91666984ef7687aa3c"
+}
